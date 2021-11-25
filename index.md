@@ -14,10 +14,10 @@
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-|Griffith University      |eResearch Analyst         |2016-Present|
-|QCIF Secondment|eResearch Analyst |2018-Present|
-|Griffith University|Software Engineer |2010-2016|
-|Griffith University|Bioinformatician |2008-2010|
+|Griffith University      | Lecture         |2020-Present|
+|Bowling Green State University |Assistant Professor (Tenure-Track) |2018-2020|
+|Saint Louis University|Graduate Assistant |2013-2017|
+|FAA Florida NextGen Test Bed |FTB Embassidor |2012|
 
 ## Skills
 
