@@ -8,4 +8,4 @@ colour3: "#a3cef1"  # colour of Menu links
 colour4: "#d4dfc7" # trying to be background colour - still experimenting 
 colour5: "#e7ecef" # menu link colour when hover
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
