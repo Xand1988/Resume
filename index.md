@@ -8,8 +8,8 @@
 
 | ------------------------------------- | ------------------------------------------- | ----- |
 | Bachelor of Engineering (Majoring in Transportation) | Civil Aviation Flight University of China          | 2006-2010 |
-| Master of Science in Aeronautics | Embry-Riddle Aeronautical University (Daytona Beach) | 2010 - 2012|
-| Ph.D. in Aviation | Saint Louis University Parks College of Engineering, Aviation, and Technology | 2013 - 2018 |
+| Master of Science in Aeronautics | Embry-Riddle Aeronautical University (Daytona Beach) | 2010-2012|
+| Ph.D. in Aviation | Saint Louis University Parks College of Engineering, Aviation, and Technology | 2013-2018 |
 
 ## Employment
 
@@ -24,10 +24,11 @@
 - Intermediate skills in:
   - Python
   - R
-  - Linux/Bash
-  - SQL
+  - Total Airport & Airspace Modeler 
+  - MatLab
 - Communication across different audiences
-- Writing a Github Page Resume then teaching it
+- MS Office
+- Machine Learning & Data Sicence
 
 ## Publications
 
