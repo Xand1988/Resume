@@ -7,9 +7,9 @@
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Science (Majoring in Bioinformatics) | University of Southern Queensland          | 2003-2007 |
-| Carpentry Instructor | The Carpentries | 2015 |
-| Agile Business Analysis Foundation Course | DDLS Brisbane | 2018 |
+| Bachelor of Engineering (Majoring in Transportation) | Civil Aviation Flight University of China          | 2006-2010 |
+| Master of Science in Aeronautics | Embry-Riddle Aeronautical University (Daytona Beach) | 2010 - 2012|
+| Ph.D. in Aviation | Saint Louis University Parks College of Engineering, Aviation, and Technology | 2013 - 2018 |
 
 ## Employment
 
