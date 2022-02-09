@@ -40,7 +40,7 @@
 
 - **Wu, Xiaoyu**.  ``The Application of Machine Learning in Student Pilots Evaluation Under a Simulated Environment' *International Conference on Cognitive Aircraft Systems*, 2020.
 
-- Belt,S., Gururajan,S., and **Wu, X.O.**  ``Evaluation of Workload and Performance During Primary Flight Training with Motion Cueing Seat in an Advanced Aviation Training Device'' \emph{SAE Technical Paper}, 01-13-01-006, 2020.
+- Belt,S., Gururajan,S., and **Wu, X.O.**  ``Evaluation of Workload and Performance During Primary Flight Training with Motion Cueing Seat in an Advanced Aviation Training Device'' *SAE Technical Paper*, 01-13-01-006, 2020.
 
 - **Wu, X.O.** , Liu, Y., and Kelly,T.K.. ``Aviation Education Impacts on Cockpit Culture of Chinese Student Pilots'' *Journal of Aviation/Aerospace Education \& Research (JAAER)* , 2020.       
 
