@@ -32,9 +32,8 @@
 
 ## Publications
 
-**Acceso a recursos de cómputo de alto rendimiento mediante correo electrónico (Access to high performance computing resources via email)**
-Estévez-Velarde, S., Miotto, A., Bolufé-Röhler, A., & Chen, S. 2014
-https://experts.griffith.edu.au/publication/n4c4419aae6abe7655f9b1611680dd0f1
+Application of machine learning to mapping primary causal factors in self reported safety narratives
+Safety Science, 75: 118 { 129, 2015.
 
 
 **Invited Editorial for Artificial Organs Journal**
