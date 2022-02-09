@@ -32,57 +32,29 @@
 
 ## Publications
 
-Application of machine learning to mapping primary causal factors in self reported safety narratives
-Safety Science, 75: 118 { 129, 2015.
+- Robinson, S.D., Irwin,W.J., Kelly,T.K., and **Wu, X.O.** .  ``Application of machine learning to mapping primary causal factors in self reported safety narratives'' *Safety Science* , 75: 118 -- 129, 2015.
 
+- **Wu, Xiaoyu.**  ``Perceptions of Safety Climate in the Air Traffic Control Facilities in China'' *Journal of Advances in Social Science and Humanities*, 3(8), 2017.
 
-**Invited Editorial for Artificial Organs Journal**
-OpenHeart Project – An Open-Source Research Community in the Field of Mechanical Circulatory Support
-Jo P Pauls, Amanda Miotto, Andrew Stephens, Shaun D Gregory, Geoff Tansley 2018
+- **Wu, Xiaoyu** .  ``How does National Culture Help Pilots in Navigating Themselves in Different Environment'' *10th International Conference on Applied Human Factors and Ergonomics*, 2019.
 
+- **Wu, Xiaoyu**.  ``The Application of Machine Learning in Student Pilots Evaluation Under a Simulated Environment' *International Conference on Cognitive Aircraft Systems*, 2020.
 
+- Belt,S., Gururajan,S., and **Wu, X.O.**  ``Evaluation of Workload and Performance During Primary Flight Training with Motion Cueing Seat in an Advanced Aviation Training Device'' \emph{SAE Technical Paper}, 01-13-01-006, 2020.
 
-## Projects
+- **Wu, X.O.** , Liu, Y., and Kelly,T.K.. ``Aviation Education Impacts on Cockpit Culture of Chinese Student Pilots'' *Journal of Aviation/Aerospace Education \& Research (JAAER)* , 2020.       
 
+- Shila, J.J, and **Wu, X.O.**, . ``Analysis of the Unmanned Aerial Vehicles’ Incidents and Accidents: The Role of Human Factors'' *ICASAS 2021: International Conference on Aviation Safety and Aviation Security)* , 2021.    
 
-%#### HPC Portal  2016
-%Creation of a user-facing web portal to submit jobs to High Performance Computing systems, both internal and leveraging cloud infrastructure. Engagement with %Researchers on their needs and current areas of trouble to design and build a system that addresses the discovered issues and provides support documentation for %the system at the correct technical level.
-
-
-%#### Open Heart Project 2017-2018
-%Client consultation from project inception to design and implement a platform to foster international collaboration in the field of mechanical circulatory support %by developing open source 3D printable heart pumps. Additionally acted as technical lead for Industry Affiliates Program students for two cohorts.
-
-
-%#### Compounds Australia - CASMaP Project 2017-2020
-%Information gathering, creation of process diagrams, data flow diagrams and supplementary information to be used for implementing a supportable and maintainable %technical solution for the Compounds Australia Library that would meet their requirements for data analysis and storage.
-
-%Built requirements, collated possible vender lists and liaise with technical details before, during and after SLAS conference to highlight possible solutions. 
-%Undertook tender Process, led technical approval processes and authored technical addendum of final contract.
-
-
-%#### Hacky hour, Griffith University - Organizer 2015-Ongoing
-%Open hour designed to upskill researchers in coding and technical areas to accelerate their research. Includes assistance with storage, HPC, cloud, languages and %libraries install and debugging & collaborative links with other groups/researchers. Works in conjunction with Software Carpentry Workshops, Research Bazaar %Conferences, NCRIS resources and other hacky hours and community groups around QLD and AU/NZ. 
-
-
-#### Software Carpentry - Instructor and Organizer for Griffith University 2015 - Ongoing
-Software Carpentry are ‘Introduction to programming’ workshops shaped for researchers who have never programmed before. 
-Instructor at ~30 Software Carpentry workshops.
-Organizer of ~20 Software Carpentry workshops here at Griffith University.
-
-
-#### Research Bazaar Conference- Organizer, Committee member, Speaker and Instructor 2016 - Ongoing
-Research Bazaar combines Software Carpentry workshops with talks relevant to early career researchers, stalls, poster sessions and collaborative activities. As an organizer from the inaugural Brisbane Research Bazaar, I have organized speakers, social activities, sponsorship and stalls and highlighted local talent for involvement. 
-
-**Role:** Organizing committee 2016 - 2021
-
-**Role:** Key Organizer 2018
-
-
-#### Hacky Hour Handbook - Author 2017
-Wrote a handbook on how to start and run hacky hour groups at an institute with lessons learnt, helpful resources and groups to target. Released as Creative Commons [Link here](https://github.com/amandamiotto/HackyHourHandbook)
+- **Wu, X.O.**, Shila, J.J,. ``ACOVID-19 impacts on collegiate aviation trainings'' *2021 International Symposium on Aviation Psychology)* , 2021.   
+  
+- Campos-Arceiz,A., Antonio de la Torre., J., Wei, K., **Wu, X.O.** et.al. ``The return of the elephants: How two groups of dispersing elephants attracted the attention of billions and what can we learn from their behavior'' *Conservation Letters*, 2021
 
 
 
+## Prize
+
+- **Wright Brother Medal, *Society of Automotive Engineers*, 2020** 
 
 
 This page was last updated {{ site.datelastupdated }} .
